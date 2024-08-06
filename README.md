@@ -51,7 +51,6 @@ Distributed under the MIT License. See LICENSE for more information.
 
 
 ## Sources
-(personal communication in class and in a zoom about challenge with krystal Stanton July 28,2024 GitHub:https://github.com/bldambtn)
 
 Xpert is an AI Learning Assistant provided by EdX, an online education technology company. Xpert
 
